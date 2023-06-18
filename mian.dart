@@ -24,8 +24,8 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   int _counter = 0;
-  String _name = '张浩雨';
-  String _studentID = '20201050280';
+  String _name = '刘应喆';
+  String _studentID = '20201060451';
 
   void _incrementCounter() {
     setState(() {
